@@ -7,7 +7,7 @@
     "@babel/preset-react": "^7.0.0",
     "actioncable": "^5.2.1",
     "babel-loader": "^8.0.2",
-    "lodash.merge": "^4.6.1",
+    "lodash.merge": "^4.6.2",
     "react": "^16.5.0",
     "react-actioncable-provider": "^1.0.3",
     "react-dom": "^16.5.0",
